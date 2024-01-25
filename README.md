@@ -22,7 +22,7 @@ layout:
 
 ***
 
-## Minoltopedia
+## Minoltapedia
 
 ## [Website Resource Index](index/website-resource-index.md)
 

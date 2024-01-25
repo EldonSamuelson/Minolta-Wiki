@@ -6,7 +6,7 @@ description: >-
 
 # 🌐 Website Resource Index
 
-## Minoltopedia - Minolta Websites, Links, and Resources
+## Minoltapedia - Minolta Websites, Links, and Resources
 
 This covers all the best resources you could need to read up, learn, troubleshoot, or repair Minolta gear.
 
