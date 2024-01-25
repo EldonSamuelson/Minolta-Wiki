@@ -1,5 +1,5 @@
 ---
-description: Just a test, ignore this
+description: Click the Topics below and get reading!
 cover: .gitbook/assets/MinoltaGlassBg.png
 coverY: 142.95148936170213
 layout:
@@ -34,12 +34,12 @@ I see many questions asked fairly frequently in various analog communities invol
 
 ## [Guides to Minolta](index/guides.md)
 
-This is work in progress, but includes guides summarised from some of the website resource index. All guides' resources are cited directly so you can follow up with details from the original sites and authors.
+This is work in progress, but includes guides summarised from some of the Website Resource Index. All guides' resources are cited directly so you can follow up with details from the original sites and authors.
 
 ***
 
 ## The Wiki needs YOU as a contributor!
 
-If **you** think something could be added, send a Modmail to r/minolta or r/MinoltaGang with the site or webpage you found! If it gets included, you'll be credited as a contributor and rewarded with the :WikiContributor: user flair!
+If **you** think something could be added, send a Modmail to r/minolta or r/MinoltaGang with the site or webpage you found, or go to the githib link and make a push request! All contributors are credited appropriately.
 
 ***
